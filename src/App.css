@@ -1,0 +1,47 @@
+#title {
+  color: #0094ff;
+}
+
+.data-pegawai {
+  background-color: #0094ff;
+  border-radius: 10px;
+}
+
+#profile {
+  background-image: url("./src/assets/GEDUNG.jpg");
+
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+
+  height: 160vh;
+}
+
+.navbar {
+  background-color: rgba(0, 0, 0, 0.5) !important;
+}
+
+#content {
+  background-color: rgba(255, 255, 255, 0.8);
+  border-radius: 10px;
+  width: 60%;
+}
+
+.save{
+  justify-content: between;
+}
+.transparent-input {
+  background-color: transparent;
+  border: none;
+  border-bottom: 1px solid black;
+}
+
+.data input{
+  opacity: 0.5;
+  outline: 2px solid black; 
+}
+
+.custom-outline {
+  color: white;
+  border-color: white;
+}
